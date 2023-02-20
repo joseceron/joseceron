@@ -46,6 +46,6 @@ I am an Electronic ant Communication Engineer from University of Cauca with 4 ye
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-ceron-i-b9a7a8bb/)
+[![LinkedIn](https://img.shields.io/badge/Linkeding-Jose%20Cer%C3%B3n-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-ceron-i-b9a7a8bb/)
 
 
