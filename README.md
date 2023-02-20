@@ -20,6 +20,7 @@ I am an Electronic ant Communication Engineer from University of Cauca with 4 ye
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IaC](https://img.shields.io/badge/-Serverless%20Framework-lightgrey)
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -29,9 +30,15 @@ I am an Electronic ant Communication Engineer from University of Cauca with 4 ye
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![](https://img.shields.io/badge/-Clean%20Architecture-lightgrey)
+![](https://img.shields.io/badge/-Clean%20Code-lightgrey)
+![](https://img.shields.io/badge/-Git%20Flow-lightgrey)
+![](https://img.shields.io/badge/-CI%2FCD-lightgrey)
+![](https://img.shields.io/badge/-SonarQube-lightgrey)
+
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
