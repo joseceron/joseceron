@@ -45,8 +45,8 @@ I am an Electronic ant Communication Engineer from University of Cauca with 4 ye
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 ### Certifications
-JSNSD 
-JSNAD LFW211
+- JSNSD 
+- JSNAD LFW211
 
 ## Find me at:
 
