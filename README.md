@@ -44,6 +44,10 @@ I am an Electronic ant Communication Engineer from University of Cauca with 4 ye
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
+### Certifications
+JSNSD 
+JSNAD LFW211
+
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Jose%20Cer%C3%B3n-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-ceron-i-b9a7a8bb/)
